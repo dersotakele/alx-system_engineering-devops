@@ -1,2 +1,2 @@
 #!/bin/bash
-ptinf "%x\n" $DECIMAL
+printf "%x\n" $DECIMAL
