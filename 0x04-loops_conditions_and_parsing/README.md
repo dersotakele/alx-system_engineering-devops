@@ -1,4 +1,4 @@
-Shell Loops, Conditions,
+# Shell Loops, Conditions,
 
 
 Use this command to generate RSA key ssh-keygen -t rsa
@@ -9,7 +9,7 @@ How to use while, until and for loops
 How to use if, else, elif and case condition statements
 How to use the cut command
 What are files and other comparison operators, and how to use them
-Requirements
+# Requirements
 Allowed editors: vi, vim, emacs
 All your files will be interpreted on Ubuntu 20.04 LTS
 All your files should end with a new line
@@ -19,10 +19,10 @@ You are not allowed to use awk
 Your Bash script must pass Shellcheck (version 0.7.0) without any error
 The first line of all your Bash scripts should be exactly #!/usr/bin/env bash
 The second line of all your Bash scripts should be a comment explaining what the script doing
-Concepts
-env
-cut
-for
-while
-until
-if
+# Concepts
+* env
+* cut
+* for
+* while
+* until
+* if
